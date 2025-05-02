@@ -18,8 +18,7 @@ CSS3
 
 JavaScript (Vanilla JS)
 
-🔗 Links: Live Demo:[ www.ks-company.in
-](https://effulgent-strudel-f999a0.netlify.app/)
+🔗 Links: Live Demo:https://moonlit-pixie-cd351d.netlify.app/
 Contact Me: Send a Message
 
 🛠 Other Features: SEO-friendly structure
